@@ -1,2 +1,3 @@
 # CV
-[Google Software Engineer HANRU.pdf](https://github.com/Hacker-Davinci/CV/files/7836460/Google.Software.Engineer.HANRU.pdf)
+
+![image](https://user-images.githubusercontent.com/76461262/148710681-520d55f7-def5-4e54-b40a-001c15ebd12c.png)
