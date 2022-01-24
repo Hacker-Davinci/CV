@@ -1,4 +1,5 @@
 # CV
 
-![image](https://user-images.githubusercontent.com/76461262/150788792-cbd99895-7e93-4a72-9db1-6ca174267191.png)
+![HANRU CHEN RESUME-1](https://user-images.githubusercontent.com/76461262/150788969-2e9fbf87-6d6c-4f2f-8449-5f821ada1110.png)
+
 
