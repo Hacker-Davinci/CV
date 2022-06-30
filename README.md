@@ -1,3 +1,3 @@
 # HANRU CHEN CV
 
-<embed src="https://github.com/Hacker-Davinci/CV/Data_Science_Internship.pdf" type="application/pdf" />
+<embed src="https://github.com/Hacker-Davinci/Data_Science_Internship.pdf" type="application/pdf" />
